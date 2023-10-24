@@ -1,0 +1,13 @@
+li {
+  list-style-type: none;
+  border: 1px solid white;
+  padding: 10px;
+  font-size: medium;
+}
+
+form {
+  padding: 20px;
+}
+
+body {
+}
